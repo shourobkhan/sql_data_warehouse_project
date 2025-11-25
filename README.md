@@ -112,3 +112,5 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
+Hi there! I'm Shourob Khan. I did my Data Science Masters from London South Bank University. Here I work with a Data Warehouse project. I published everything here step by step. If you would like to add anything or if you want to know more about the warehouse project, you can contact me through email or in my linkedin. 
+
